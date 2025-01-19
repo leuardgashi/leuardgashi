@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @leuardgashi
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gashileuard@gmail.com
+I am a self-motivated and detail-oriented developer with a strong foundation in computer science and hands-on experience in creating web applications and games. Currently, I’m expanding my knowledge in software design, focusing on both functional and scalable solutions. 
 
-<!---
-leuardgashi/leuardgashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Outside of coding, I enjoy learning new technologies, experimenting with UI/UX designs, and working on projects that challenge me to grow as a developer.
